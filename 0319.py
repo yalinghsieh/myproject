@@ -44,4 +44,4 @@ y = add_weight(weight1)
 #出錯因為函式規定要兩個變數除非將def add_weight(w1, w2=1)設定預設值Main有
 print(x, y)
 '''
-
+a = "yaling is aun"
